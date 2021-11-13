@@ -1,4 +1,4 @@
-# usnap_front
+# front
 
 A new Flutter project.
 
